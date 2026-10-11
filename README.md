@@ -1,0 +1,2 @@
+# DecorateGenerator
+Hi
